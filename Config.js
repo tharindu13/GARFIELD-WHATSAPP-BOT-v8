@@ -10,23 +10,23 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ["+94711502119"] //👈  Enter Your number)
-global.premium = ["+94711502119"] // 👈  Enter Your number)
+global.owner = ["+94753240198"] //👈  Enter Your number)
+global.premium = ["+94753240198"] // 👈  Enter Your number)
 global.emoji01 = ["🐼"] // 👈 Enter your Emoji 
 global.emoji02 = ["🦋"] //👈 Enter your Emoji
-global.ownernomer = [+94711502119] //👈 Enter Your number
-global.ownername = ["ZENOI"] //👈 Enter Your name
-global.botname = ["ＧＡＲＤＩＥＬＤ ＢＯＴ ｖ8.2"] //👈 Enter Your Bot name
-global.footer = ["Coded by Tharindu Liyanage"] //👈 Enter Your Name
-global.ig = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
+global.ownernomer = [+94753240198] //👈 Enter Your number
+global.ownername = ["THARINDU"] //👈 Enter Your name
+global.botname = ["ALPHAＢＯＴ ｖ8.2"] //👈 Enter Your Bot name
+global.footer = ["Coded by Tharindu"] //👈 Enter Your Name
+global.ig = ["https://github.com/"]
 global.region = ["SriLanka"] // 👈 Enter Your country
-global.sc = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
-global.myweb = ["https://www.facebook.com/garfieldbots/"] // 👈 Enter your Social media link to follow now button
-global.packname = ["GARFIELD-BOTv8"]  // 👈 You Can change this your choice 
-global.author = ["NOIZE DEVELOPMENT"] // 👈 You Can change this your choice 
+global.sc = ["https://github.com/"]
+global.myweb = ["https://www.facebook.com/"] // 👈 Enter your Social media link to follow now button
+global.packname = ["ALPHA-BOTv8"]  // 👈 You Can change this your choice 
+global.author = ["THARINDU"] // 👈 You Can change this your choice 
 global.sessionName = 'session'  // 👈 You Can change this your choice 
 global.prefa = ['','!','.']  // 👈 You Can change this your choice 
-global.sp = ['ZENOI']  // 👈 You Can change this your choice 
+global.sp = ['THARINDU']  // 👈 You Can change this your choice 
 global.mess = {
     success: ["Done 🐼"], //👈 Use these in your language of choice
     admin: ["This Feature Is Only For Admin!"], // 👈 Use these in your language of choice
