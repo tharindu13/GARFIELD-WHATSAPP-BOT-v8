@@ -53,12 +53,12 @@ global.mess = {
    potionawal: 1
 }  
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
+global.thumb =  'https://i.ibb.co/QfHrvxW/1eef8858db9c.jpg' 
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.flaming = 'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.fluming = 'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.flarun = 'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.flasmurf = 'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
+global.flaming = 'https://i.ibb.co/QfHrvxW/1eef8858db9c.jpg' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
+global.fluming = 'https://i.ibb.co/QfHrvxW/1eef8858db9c.jpg' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
+global.flarun = 'https://i.ibb.co/QfHrvxW/1eef8858db9c.jpg' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
+global.flasmurf = 'https://i.ibb.co/QfHrvxW/1eef8858db9c.jpg' //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 
 // Do not change 👇 
 
